@@ -22,6 +22,7 @@ THEN they will receive a notification that they have added an expense or deposit
 WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
+<img width="704" alt="Screen Shot 2022-04-10 at 2 16 09 AM" src="https://user-images.githubusercontent.com/94089824/162657172-e1e08d2f-94f7-460d-bc7b-d19bbe6a53ae.png">
 
 
 

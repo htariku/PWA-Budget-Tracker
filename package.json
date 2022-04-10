@@ -24,7 +24,11 @@
     "webpack-dev-server": "^4.8.1"
   },
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.17.3",
-    "mongoose": "^6.2.10"
+    "mongoose": "^6.2.10",
+    "morgan": "^1.10.0",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.15"
   }
 }
